@@ -1,4 +1,6 @@
 # 🧠 Deep Learning Notes (deeplearning.ai)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Language](https://img.shields.io/badge/language-python-blue)
 
 This repository contains my personal notes and experiments while taking the Deep Learning course by Andrew Ng on deeplearning.ai (Coursera).
 
@@ -96,3 +98,4 @@ Learning deep learning is not about memorizing formulas —
 it's about understanding the intuition behind them.
 
 ---
+
