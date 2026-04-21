@@ -1,7 +1,7 @@
 # 🧠 Deep Learning Notes (deeplearning.ai)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 ![Language](https://img.shields.io/badge/language-python-blue)
-
+![Course](https://img.shields.io/badge/course-deeplearning.ai-blue)
 This repository contains my personal notes and experiments while taking the Deep Learning course by Andrew Ng on deeplearning.ai (Coursera).
 
 > 🚧 This repository is actively being updated as I progress through the course.
